@@ -45,9 +45,11 @@ Remember about Newtypes!
 Look up Parser Combinators w.r.t. Scala. - ok got it, here's a Clojure one --> https://github.com/youngnh/parsatron
 - What is Fuse?
 
-## Math and Haskell
-- Jan Rutten - Stream Differential Equations
-
+## Power Series and Haskell - Doug McIlroy
+- Q: Who advocates redoing math education in maybe a way like this?
+  - A: Jan Rutten - Stream Differential Equations
+- http://www.cs.dartmouth.edu/~doug/powser.html
+- 
 ## ... Without sounding like and idiot
 - Watch Paul Snively's "Type Systems: The Good, the Bad, and the Ugly"
 - Read "A letter to a young Haskell Enthusiast"
@@ -75,8 +77,11 @@ Look up Parser Combinators w.r.t. Scala. - ok got it, here's a Clojure one --> h
     - Q How about polymorphism?  That's parallel scopes.
   - If the base language is unreadable, "Just make macros".
 
-#@ The Next Great
+## The Next Great
 - Decade of Accretion
+
+## Mind Blowing Category Theory Russian Dude
+- Introduction to Intuitionistic Type Theory, Vlad Patryshev
 
 Erlang - Process
 Haskell - Type
